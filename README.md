@@ -4,9 +4,9 @@
 
 ### Socials 
 
-Github - https://github.com/dylangoetz
-Twitter/X - https://twitter.com/dylanrgoetz
-Discord - https://discord.gg/mdZbfjpaJD
+- Github: https://github.com/dylangoetz
+- Twitter/X: https://twitter.com/dylanrgoetz
+- Discord: https://discord.gg/mdZbfjpaJD
 
 ### Current Projects
 
