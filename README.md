@@ -24,7 +24,7 @@
 
 ### Contact Info
 
-You can reach me via Email or Discord. You can reach me at: https://discord.gg/mdZbfjpaJD or dylan@hypez.host
+You can reach me via Email or Discord. You can reach me at: https://discord.gg/mdZbfjpaJD or me@dylangoetz.com
 
 
 
