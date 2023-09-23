@@ -10,10 +10,9 @@
 
 ### Current Projects
 
-- Hypez Hosting.
+- Dylan Goetz: Doing System Admin and Web Developer Work.
 - Chato Designs.
 - Justin's Workshop.
-- Dylan Goetz: Doing System Admin and Web Developer Work.
 
 ### Amazing People
 
