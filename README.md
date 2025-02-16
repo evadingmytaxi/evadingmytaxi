@@ -1,30 +1,29 @@
 ### Howdy 
 
-**I am Dylan Goetz, I love doing System Admin & Web Dev Work.**
+**I am EvadingMyTaxi, I love doing System Admin & Web Dev Work.**
 
 ### Socials 
 
-- Github: https://github.com/dylangoetz
-- Twitter/X: https://twitter.com/dylanrgoetz
-- Discord: https://discord.gg/mdZbfjpaJD
+- Github: https://github.com/evadingmytaxi/
+- Twitter/X: https://x.com/evadingmytaxi
 
 ### Current Projects
 
-- Dylan Goetz: Doing System Admin and Web Developer Work.
-- Chato Designs.
-- Justin's Workshop.
+- EvadingMyTaxi: Doing System Admin and Web Developer Work.
+- SWDOJRP | CIA.
+- MW Hosting.
 
 ### Amazing People
 
-- Wolf.
-- William M.
-- Chato.
-- Riley N.
-- Sevy.
+- Ghost 141
+- Damomsmanz
+- Tia
+- Justin
+- Logan
 
 ### Contact Info
 
-You can reach me via Email or Discord. You can reach me at: https://discord.gg/mdZbfjpaJD or me@dylangoetz.com
+You can reach me via Discord. You can reach me at: evadingmytaxi
 
 
 
