@@ -1,29 +1,26 @@
 ### Howdy 
 
-**I am EvadingMyTaxi, I love doing System Admin & Web Dev Work.**
+**I am hy3pez, I love doing System Admin & Web Dev Work.**
 
 ### Socials 
 
-- Github: https://github.com/evadingmytaxi/
-- Twitter/X: https://x.com/evadingmytaxi
+- Github: https://github.com/hy3pez/
+- Twitter/X: https://x.com/dylan6589
 
 ### Current Projects
 
-- EvadingMyTaxi: Doing System Admin and Web Developer Work.
-- SWDOJRP | CIA.
-- MW Hosting.
+- Hypez Hosting.
 
 ### Amazing People
 
-- Ghost 141
 - Damomsmanz
-- Tia
-- Justin
+- Alex
+- Lia
 - Logan
 
 ### Contact Info
 
-You can reach me via Discord. You can reach me at: evadingmytaxi
+You can reach me via Discord. You can reach me at: hy3pez
 
 
 
